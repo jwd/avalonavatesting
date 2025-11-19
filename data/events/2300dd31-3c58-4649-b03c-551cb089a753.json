@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "51d4ed9d-8432-4367-9d38-7e19bcea00c6": {
+      "label": "auto",
+      "file_url": "https://media.dlib.indiana.edu/master_files/df65vq610/auto.m3u8",
+      "duration": 4920,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-11-19T19:36:05.392Z",
+  "created_by": "jwd",
+  "label": "26th Annual Symposium of Research in Music Theory",
+  "updated_at": "2025-11-19T19:36:05.392Z",
+  "updated_by": "jwd",
+  "rights_statement": ""
+}

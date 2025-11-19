@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "a181dce5-71cd-437d-b245-3293eacb29bf": {
+      "label": "auto",
+      "file_url": "https://media.dlib.indiana.edu/master_files/tx31qm926/auto.m3u8",
+      "duration": 330.957,
+      "file_type": "Audio"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-11-19T19:11:37.962Z",
+  "created_by": "jwd",
+  "label": "David N. Baker, Concert Piece for Trombone and String Orchestra - Fast",
+  "updated_at": "2025-11-19T19:11:37.962Z",
+  "updated_by": "jwd",
+  "rights_statement": ""
+}
